@@ -4,11 +4,11 @@ This project explores and analyzes Netflix’s public dataset using advanced SQL
 Objectives
 1. Clean, filter, and transform Netflix content data using SQL
 
-2 .Perform in-depth analysis across multiple dimensions: country, release year, genre, rating, duration, cast
+2. Perform in-depth analysis across multiple dimensions: country, release year, genre, rating, duration, cast
 
-3 .Build an interactive Power BI dashboard with filters, KPIs, and trend analysis
+3. Build an interactive Power BI dashboard with filters, KPIs, and trend analysis
 
-4 .Identify top actors, longest content, most common genres, and keyword-based content categorization
+4. Identify top actors, longest content, most common genres, and keyword-based content categorization
 
 Key Features & Queries
 1. Count the number of Movies vs TV Shows
