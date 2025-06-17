@@ -17,4 +17,9 @@ How to Run
 
 3 .Connect Power BI to the cleaned tables/views or load the exported .csv
 
-4 .Explore KPIs, filters, and visualizations in powerbi_dashboard.pbix
+4 .Explore KPIs, filters, and visualizations in powerbi_dashboard.pbix 
+
+Final Dashboard
+![Power Bi Dashboard](https://github.com/user-attachments/assets/bafaf325-2c21-4362-bb5f-095d6ff08208)
+
+
