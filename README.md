@@ -20,6 +20,7 @@ How to Run
 4 .Explore KPIs, filters, and visualizations in powerbi_dashboard.pbix 
 
 Final Dashboard
-![Power Bi Dashboard](https://github.com/user-attachments/assets/bafaf325-2c21-4362-bb5f-095d6ff08208)
+![image](https://github.com/user-attachments/assets/8b6ad159-cb89-4a02-86db-88ec10b1a065)
+
 
 
